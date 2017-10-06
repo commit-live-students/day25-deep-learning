@@ -25,7 +25,7 @@
 2. Creating and training CNNs with Keras
 
 ## Slides
-@[gslides](1gEb00r1CyjxWignP0JC84UArH7qny05p-CQhMdBcu2o)
+@[gslides](1ztcew14qhYygZoKcIoJ4xGBbgs8AmL12UyCPgseWT18)
 
 
 ## Post-Reading List
